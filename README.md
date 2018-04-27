@@ -12,3 +12,4 @@
 - [WGAN EM distance 推导](https://vincentherrmann.github.io/blog/wasserstein/)
 - [openAI GAN blog](https://blog.openai.com/generative-models/)
 - [neuralnetworks and deeplearning](http://neuralnetworksanddeeplearning.com/index.html)
+- [GAN for medical images](https://github.com/wanpeng16/awesome-gan-for-medical-imaging)
