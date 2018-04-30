@@ -13,4 +13,4 @@
 - [openAI GAN blog](https://blog.openai.com/generative-models/)
 - [neuralnetworks and deeplearning](http://neuralnetworksanddeeplearning.com/index.html)
 - [GAN for medical images](https://github.com/wanpeng16/awesome-gan-for-medical-imaging)
-- [数值计算与采样计算，KL散度及变分](https://spaces.accn/archives/5343/comment-page-1)
+- [数值计算与采样计算，KL散度及变分](https://spaces.ac.cn/archives/5343/comment-page-1)
