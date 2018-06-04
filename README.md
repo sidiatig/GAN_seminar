@@ -14,3 +14,4 @@
 - [neuralnetworks and deeplearning](http://neuralnetworksanddeeplearning.com/index.html)
 - [GAN for medical images](https://github.com/wanpeng16/awesome-gan-for-medical-imaging)
 - [数值计算与采样计算，KL散度及变分](https://spaces.ac.cn/archives/5343/comment-page-1)
+- [最优传输 python](https://github.com/rflamary/POT)
