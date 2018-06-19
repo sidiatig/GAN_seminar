@@ -15,8 +15,8 @@ for i = 1:N
 end
 
 %¾«¶ÈÔ¼Êø
-X(:,:) = round(X(:,:));
-uniqueSamples = unique(X,'row');
+%X(:,:) = round(X(:,:));
+uniqueSamples = unique(X,'rows');
 uniqueSize = size(uniqueSamples,1);
 Count =zeros(1,uniqueSize);
 for i = 1 : uniqueSize
@@ -28,7 +28,7 @@ for i = 1 : uniqueSize
 end
 
 
-empirical_distribution = Count / sum(Count);
+empirical_distribution = (Count / sum(Count))';
 
 end
 
